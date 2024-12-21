@@ -1,0 +1,15 @@
+{
+  "name": "Met Museum",
+  "short_name": "Museum",
+  "start_url": "/details.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logooo.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    }
+  ],
+  "background_color": "#ddd",
+  "theme_color": "#333"
+}
